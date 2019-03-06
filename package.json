@@ -1,0 +1,23 @@
+{
+  "name": "nodehero-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "chai-as-promised": "^7.1.1",
+    "co-mocha": "1.1.2",
+    "mocha": "2.5.3",
+    "sinon": "1.17.4",
+    "sinon-chai": "2.8.0"
+  },
+  "dependencies": {
+    "request": "2.72.0"
+  }
+}
